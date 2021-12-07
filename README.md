@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Daniel. Check out my bio: https://bio.link/dlupescu
+
+Talk is cheap. Show me the code. (Linus Torvalds)
 
 <!--
 **daniellupescu/daniellupescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
